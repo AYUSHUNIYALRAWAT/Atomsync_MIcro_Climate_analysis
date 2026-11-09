@@ -1,0 +1,7 @@
+file_name,source_or_provenance,contents,record_count,limitations
+containers_raw.csv,Synthetic,Container/shipment metadata,100,Not operational records
+sensor_events_raw.csv,Synthetic,15-minute sensor events for 100 containers over 7 days,67212,Includes intentional missing/out-of-range/duplicate values
+weather_raw.csv,Synthetic placeholder,Hourly weather-like fields for 5 Indian cities over 7 days,840,Replace with Open-Meteo historical API records
+commodity_market_prices_raw.csv,Synthetic placeholder,Daily commodity prices for 4 commodities across 5 markets,140,Replace with AGMARKNET/data.gov.in records
+market_routes_raw.csv,Synthetic estimate,Illustrative inter-city route estimates,10,Replace with verified routing data for operational claims
+W60 benchmark workbook,Not supplied,Benchmark/shipment/sensor-position reference,0,Not attached; import original workbook unchanged when available

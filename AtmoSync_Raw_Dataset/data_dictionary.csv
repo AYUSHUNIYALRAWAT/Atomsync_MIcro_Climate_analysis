@@ -1,0 +1,61 @@
+file_name,column_name,example_value,description
+containers_raw.csv,container_id,CONT-0001,Refer to source_log.csv for provenance and limitations.
+containers_raw.csv,shipment_id,SHP-0001,Refer to source_log.csv for provenance and limitations.
+containers_raw.csv,container_type,Reefer,Refer to source_log.csv for provenance and limitations.
+containers_raw.csv,commodity,Apple,Refer to source_log.csv for provenance and limitations.
+containers_raw.csv,origin_city,Delhi,Refer to source_log.csv for provenance and limitations.
+containers_raw.csv,origin_state,Delhi,Refer to source_log.csv for provenance and limitations.
+containers_raw.csv,origin_latitude,28.5983,Refer to source_log.csv for provenance and limitations.
+containers_raw.csv,origin_longitude,77.220257,Refer to source_log.csv for provenance and limitations.
+containers_raw.csv,destination_market,Delhi,Refer to source_log.csv for provenance and limitations.
+containers_raw.csv,sensor_id,SENS-0001,Refer to source_log.csv for provenance and limitations.
+containers_raw.csv,sensor_position,front,Refer to source_log.csv for provenance and limitations.
+containers_raw.csv,capacity_kg,10000,Refer to source_log.csv for provenance and limitations.
+containers_raw.csv,deployment_date,2026-10-01,Refer to source_log.csv for provenance and limitations.
+containers_raw.csv,source_type,synthetic,Refer to source_log.csv for provenance and limitations.
+containers_raw.csv,source_note,Synthetic project-development record; not operational telemetry.,Refer to source_log.csv for provenance and limitations.
+sensor_events_raw.csv,event_id,EVT-CONT-0001-202610010000,Refer to source_log.csv for provenance and limitations.
+sensor_events_raw.csv,container_id,CONT-0001,Refer to source_log.csv for provenance and limitations.
+sensor_events_raw.csv,shipment_id,SHP-0001,Refer to source_log.csv for provenance and limitations.
+sensor_events_raw.csv,sensor_id,SENS-0001,Refer to source_log.csv for provenance and limitations.
+sensor_events_raw.csv,event_timestamp_utc,2026-10-01T00:00:00+00:00,Refer to source_log.csv for provenance and limitations.
+sensor_events_raw.csv,temperature_c,1.27,Refer to source_log.csv for provenance and limitations.
+sensor_events_raw.csv,humidity_pct,87.915,Refer to source_log.csv for provenance and limitations.
+sensor_events_raw.csv,vibration_g,0.2884,Refer to source_log.csv for provenance and limitations.
+sensor_events_raw.csv,sensor_status,active,Refer to source_log.csv for provenance and limitations.
+sensor_events_raw.csv,latitude,28.598694,Refer to source_log.csv for provenance and limitations.
+sensor_events_raw.csv,longitude,77.221898,Refer to source_log.csv for provenance and limitations.
+sensor_events_raw.csv,source_type,synthetic,Refer to source_log.csv for provenance and limitations.
+sensor_events_raw.csv,ingested_at_utc,2026-10-01T00:18:00+00:00,Refer to source_log.csv for provenance and limitations.
+weather_raw.csv,weather_record_id,WTH-DELHI-2026100100,Refer to source_log.csv for provenance and limitations.
+weather_raw.csv,location_name,Delhi,Refer to source_log.csv for provenance and limitations.
+weather_raw.csv,state,Delhi,Refer to source_log.csv for provenance and limitations.
+weather_raw.csv,latitude,28.6139,Refer to source_log.csv for provenance and limitations.
+weather_raw.csv,longitude,77.209,Refer to source_log.csv for provenance and limitations.
+weather_raw.csv,timestamp_utc,2026-10-01T00:00:00+00:00,Refer to source_log.csv for provenance and limitations.
+weather_raw.csv,temperature_2m_c,23.39,Refer to source_log.csv for provenance and limitations.
+weather_raw.csv,relative_humidity_2m_pct,67.3,Refer to source_log.csv for provenance and limitations.
+weather_raw.csv,precipitation_mm,0.0,Refer to source_log.csv for provenance and limitations.
+weather_raw.csv,wind_speed_10m_kmh,4.78,Refer to source_log.csv for provenance and limitations.
+weather_raw.csv,source_type,synthetic_placeholder,Refer to source_log.csv for provenance and limitations.
+weather_raw.csv,source_note,Replace with Open-Meteo Historical Weather API data before claiming real observations.,Refer to source_log.csv for provenance and limitations.
+commodity_market_prices_raw.csv,price_record_id,PRC-01-DEL-TOM,Refer to source_log.csv for provenance and limitations.
+commodity_market_prices_raw.csv,price_date,2026-10-01,Refer to source_log.csv for provenance and limitations.
+commodity_market_prices_raw.csv,commodity,Tomato,Refer to source_log.csv for provenance and limitations.
+commodity_market_prices_raw.csv,market_name,Azadpur,Refer to source_log.csv for provenance and limitations.
+commodity_market_prices_raw.csv,city,Delhi,Refer to source_log.csv for provenance and limitations.
+commodity_market_prices_raw.csv,state,Delhi,Refer to source_log.csv for provenance and limitations.
+commodity_market_prices_raw.csv,min_price_inr_per_quintal,1889.23,Refer to source_log.csv for provenance and limitations.
+commodity_market_prices_raw.csv,max_price_inr_per_quintal,2642.04,Refer to source_log.csv for provenance and limitations.
+commodity_market_prices_raw.csv,modal_price_inr_per_quintal,2281.75,Refer to source_log.csv for provenance and limitations.
+commodity_market_prices_raw.csv,arrival_quantity_quintal,379.6,Refer to source_log.csv for provenance and limitations.
+commodity_market_prices_raw.csv,source_type,synthetic,Refer to source_log.csv for provenance and limitations.
+commodity_market_prices_raw.csv,source_note,Synthetic placeholder; replace with AGMARKNET/data.gov.in source records.,Refer to source_log.csv for provenance and limitations.
+market_routes_raw.csv,route_id,RTE-001,Refer to source_log.csv for provenance and limitations.
+market_routes_raw.csv,origin_city,Delhi,Refer to source_log.csv for provenance and limitations.
+market_routes_raw.csv,destination_city,Mumbai,Refer to source_log.csv for provenance and limitations.
+market_routes_raw.csv,distance_km_est,1453.14,Refer to source_log.csv for provenance and limitations.
+market_routes_raw.csv,estimated_travel_hours,33.79,Refer to source_log.csv for provenance and limitations.
+market_routes_raw.csv,estimated_extra_cost_inr,15854.02,Refer to source_log.csv for provenance and limitations.
+market_routes_raw.csv,route_source_type,synthetic_estimate,Refer to source_log.csv for provenance and limitations.
+market_routes_raw.csv,source_note,Illustrative estimate; not a live routing-provider measurement.,Refer to source_log.csv for provenance and limitations.
