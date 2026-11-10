@@ -1,0 +1,9 @@
+metric,count,handling_or_meaning
+sensor_events_raw,67212,Raw input count
+sensor_events_processed,67200,After removing duplicate event_id rows
+duplicate_event_ids_removed,12,Removed keeping first occurrence
+temperature_missing_or_invalid,134,Flagged; clean column interpolated within container
+humidity_missing_or_invalid,67,Includes values outside 0–100%; flagged and interpolated
+vibration_missing_or_invalid,58,Flagged; clean column interpolated within container
+weather_join_missing,0,No hourly weather match for nearest station
+container_metadata_unmatched,0,Sensor event did not match container metadata
