@@ -1,0 +1,101 @@
+container_id,shipment_id,container_type,commodity,origin_city,origin_state,origin_latitude,origin_longitude,destination_market,sensor_id,sensor_position,capacity_kg,deployment_date,source_type,source_note
+CONT-0001,SHP-0001,Reefer,Apple,Delhi,Delhi,28.5983,77.220257,Delhi,SENS-0001,front,10000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
+CONT-0002,SHP-0001,Reefer,Tomato,Mumbai,Maharashtra,19.056467,72.879618,Mumbai,SENS-0002,rear,12000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
+CONT-0003,SHP-0002,Dry,Tomato,Chennai,Tamil Nadu,13.069904,80.283891,Chennai,SENS-0003,front,12000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
+CONT-0004,SHP-0002,Insulated,Onion,Kolkata,West Bengal,22.589509,88.370913,Kolkata,SENS-0004,center,5000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
+CONT-0005,SHP-0003,Reefer,Onion,Bengaluru,Karnataka,12.957217,77.607777,Bengaluru,SENS-0005,front,10000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
+CONT-0006,SHP-0003,Reefer,Apple,Delhi,Delhi,28.603686,77.227338,Delhi,SENS-0006,center,12000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
+CONT-0007,SHP-0004,Insulated,Apple,Mumbai,Maharashtra,19.070718,72.885685,Mumbai,SENS-0007,center,5000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
+CONT-0008,SHP-0004,Dry,Tomato,Chennai,Tamil Nadu,13.089162,80.302825,Chennai,SENS-0008,center,12000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
+CONT-0009,SHP-0005,Dry,Potato,Kolkata,West Bengal,22.560393,88.37314,Kolkata,SENS-0009,rear,5000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
+CONT-0010,SHP-0005,Dry,Tomato,Bengaluru,Karnataka,12.958998,77.582233,Bengaluru,SENS-0010,center,10000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
+CONT-0011,SHP-0006,Insulated,Potato,Delhi,Delhi,28.622047,77.199017,Delhi,SENS-0011,center,12000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
+CONT-0012,SHP-0006,Insulated,Potato,Mumbai,Maharashtra,19.07928,72.890771,Mumbai,SENS-0012,center,5000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
+CONT-0013,SHP-0007,Insulated,Tomato,Chennai,Tamil Nadu,13.083714,80.275037,Chennai,SENS-0013,rear,10000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
+CONT-0014,SHP-0007,Dry,Onion,Kolkata,West Bengal,22.567805,88.356844,Kolkata,SENS-0014,center,10000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
+CONT-0015,SHP-0008,Reefer,Tomato,Bengaluru,Karnataka,12.994024,77.581613,Bengaluru,SENS-0015,center,8000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
+CONT-0016,SHP-0008,Insulated,Onion,Delhi,Delhi,28.608877,77.211441,Delhi,SENS-0016,center,10000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
+CONT-0017,SHP-0009,Reefer,Onion,Mumbai,Maharashtra,19.0879,72.872469,Mumbai,SENS-0017,center,8000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
+CONT-0018,SHP-0009,Insulated,Tomato,Chennai,Tamil Nadu,13.07983,80.251565,Chennai,SENS-0018,front,5000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
+CONT-0019,SHP-0010,Insulated,Tomato,Kolkata,West Bengal,22.580057,88.366036,Kolkata,SENS-0019,center,10000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
+CONT-0020,SHP-0010,Reefer,Onion,Bengaluru,Karnataka,12.973978,77.603984,Bengaluru,SENS-0020,center,8000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
+CONT-0021,SHP-0011,Dry,Apple,Delhi,Delhi,28.603971,77.203554,Delhi,SENS-0021,front,5000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
+CONT-0022,SHP-0011,Insulated,Onion,Mumbai,Maharashtra,19.083305,72.870659,Mumbai,SENS-0022,rear,10000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
+CONT-0023,SHP-0012,Insulated,Tomato,Chennai,Tamil Nadu,13.089398,80.280681,Chennai,SENS-0023,front,8000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
+CONT-0024,SHP-0012,Reefer,Potato,Kolkata,West Bengal,22.571404,88.33859,Kolkata,SENS-0024,rear,5000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
+CONT-0025,SHP-0013,Dry,Tomato,Bengaluru,Karnataka,12.956641,77.600597,Bengaluru,SENS-0025,center,10000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
+CONT-0026,SHP-0013,Dry,Potato,Delhi,Delhi,28.633388,77.203656,Delhi,SENS-0026,front,10000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
+CONT-0027,SHP-0014,Insulated,Potato,Mumbai,Maharashtra,19.072918,72.86345,Mumbai,SENS-0027,center,12000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
+CONT-0028,SHP-0014,Reefer,Potato,Chennai,Tamil Nadu,13.05679,80.277216,Chennai,SENS-0028,rear,10000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
+CONT-0029,SHP-0015,Dry,Tomato,Kolkata,West Bengal,22.550909,88.364982,Kolkata,SENS-0029,center,10000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
+CONT-0030,SHP-0015,Dry,Potato,Bengaluru,Karnataka,12.971928,77.618627,Bengaluru,SENS-0030,front,10000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
+CONT-0031,SHP-0016,Dry,Tomato,Delhi,Delhi,28.616589,77.2123,Delhi,SENS-0031,front,8000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
+CONT-0032,SHP-0016,Reefer,Potato,Mumbai,Maharashtra,19.081353,72.89965,Mumbai,SENS-0032,front,10000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
+CONT-0033,SHP-0017,Insulated,Tomato,Chennai,Tamil Nadu,13.068801,80.264853,Chennai,SENS-0033,center,8000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
+CONT-0034,SHP-0017,Dry,Onion,Kolkata,West Bengal,22.569267,88.341838,Kolkata,SENS-0034,center,8000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
+CONT-0035,SHP-0018,Dry,Apple,Bengaluru,Karnataka,12.984172,77.624551,Bengaluru,SENS-0035,rear,8000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
+CONT-0036,SHP-0018,Dry,Apple,Delhi,Delhi,28.599057,77.177019,Delhi,SENS-0036,rear,8000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
+CONT-0037,SHP-0019,Insulated,Potato,Mumbai,Maharashtra,19.06977,72.868519,Mumbai,SENS-0037,front,5000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
+CONT-0038,SHP-0019,Dry,Apple,Chennai,Tamil Nadu,13.085056,80.26832,Chennai,SENS-0038,front,10000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
+CONT-0039,SHP-0020,Reefer,Tomato,Kolkata,West Bengal,22.565305,88.363093,Kolkata,SENS-0039,rear,10000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
+CONT-0040,SHP-0020,Insulated,Apple,Bengaluru,Karnataka,12.986341,77.587111,Bengaluru,SENS-0040,rear,5000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
+CONT-0041,SHP-0021,Reefer,Tomato,Delhi,Delhi,28.603022,77.240927,Delhi,SENS-0041,front,12000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
+CONT-0042,SHP-0021,Dry,Apple,Mumbai,Maharashtra,19.062456,72.891674,Mumbai,SENS-0042,center,8000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
+CONT-0043,SHP-0022,Dry,Onion,Chennai,Tamil Nadu,13.082089,80.260878,Chennai,SENS-0043,front,5000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
+CONT-0044,SHP-0022,Dry,Tomato,Kolkata,West Bengal,22.554216,88.344731,Kolkata,SENS-0044,front,12000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
+CONT-0045,SHP-0023,Reefer,Onion,Bengaluru,Karnataka,12.974,77.59282,Bengaluru,SENS-0045,front,10000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
+CONT-0046,SHP-0023,Dry,Potato,Delhi,Delhi,28.617191,77.202836,Delhi,SENS-0046,center,8000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
+CONT-0047,SHP-0024,Insulated,Tomato,Mumbai,Maharashtra,19.099036,72.880449,Mumbai,SENS-0047,front,12000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
+CONT-0048,SHP-0024,Insulated,Tomato,Chennai,Tamil Nadu,13.107464,80.296555,Chennai,SENS-0048,rear,5000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
+CONT-0049,SHP-0025,Insulated,Tomato,Kolkata,West Bengal,22.594522,88.347294,Kolkata,SENS-0049,front,8000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
+CONT-0050,SHP-0025,Insulated,Apple,Bengaluru,Karnataka,12.965681,77.594523,Bengaluru,SENS-0050,center,5000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
+CONT-0051,SHP-0026,Insulated,Tomato,Delhi,Delhi,28.635012,77.210359,Delhi,SENS-0051,front,10000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
+CONT-0052,SHP-0026,Insulated,Tomato,Mumbai,Maharashtra,19.075269,72.865052,Mumbai,SENS-0052,rear,10000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
+CONT-0053,SHP-0027,Dry,Tomato,Chennai,Tamil Nadu,13.077688,80.284439,Chennai,SENS-0053,front,10000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
+CONT-0054,SHP-0027,Insulated,Tomato,Kolkata,West Bengal,22.565337,88.358985,Kolkata,SENS-0054,front,8000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
+CONT-0055,SHP-0028,Dry,Onion,Bengaluru,Karnataka,12.991661,77.592282,Bengaluru,SENS-0055,rear,12000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
+CONT-0056,SHP-0028,Dry,Tomato,Delhi,Delhi,28.617537,77.211649,Delhi,SENS-0056,rear,5000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
+CONT-0057,SHP-0029,Insulated,Tomato,Mumbai,Maharashtra,19.079423,72.915462,Mumbai,SENS-0057,front,10000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
+CONT-0058,SHP-0029,Reefer,Apple,Chennai,Tamil Nadu,13.078389,80.248748,Chennai,SENS-0058,center,12000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
+CONT-0059,SHP-0030,Insulated,Tomato,Kolkata,West Bengal,22.590688,88.352964,Kolkata,SENS-0059,front,12000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
+CONT-0060,SHP-0030,Dry,Tomato,Bengaluru,Karnataka,12.96916,77.578664,Bengaluru,SENS-0060,rear,12000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
+CONT-0061,SHP-0031,Insulated,Onion,Delhi,Delhi,28.605958,77.195847,Delhi,SENS-0061,front,10000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
+CONT-0062,SHP-0031,Insulated,Apple,Mumbai,Maharashtra,19.053994,72.909639,Mumbai,SENS-0062,front,5000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
+CONT-0063,SHP-0032,Insulated,Onion,Chennai,Tamil Nadu,13.110254,80.314276,Chennai,SENS-0063,rear,5000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
+CONT-0064,SHP-0032,Dry,Onion,Kolkata,West Bengal,22.577723,88.38983,Kolkata,SENS-0064,front,8000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
+CONT-0065,SHP-0033,Insulated,Tomato,Bengaluru,Karnataka,12.98326,77.601121,Bengaluru,SENS-0065,front,8000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
+CONT-0066,SHP-0033,Dry,Tomato,Delhi,Delhi,28.593277,77.205427,Delhi,SENS-0066,rear,5000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
+CONT-0067,SHP-0034,Reefer,Tomato,Mumbai,Maharashtra,19.06767,72.884773,Mumbai,SENS-0067,center,10000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
+CONT-0068,SHP-0034,Insulated,Potato,Chennai,Tamil Nadu,13.087976,80.271497,Chennai,SENS-0068,rear,12000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
+CONT-0069,SHP-0035,Insulated,Apple,Kolkata,West Bengal,22.577347,88.362441,Kolkata,SENS-0069,front,5000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
+CONT-0070,SHP-0035,Dry,Onion,Bengaluru,Karnataka,12.977388,77.583154,Bengaluru,SENS-0070,front,8000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
+CONT-0071,SHP-0036,Insulated,Onion,Delhi,Delhi,28.597214,77.226867,Delhi,SENS-0071,front,5000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
+CONT-0072,SHP-0036,Dry,Apple,Mumbai,Maharashtra,19.049831,72.891612,Mumbai,SENS-0072,rear,12000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
+CONT-0073,SHP-0037,Reefer,Apple,Chennai,Tamil Nadu,13.075627,80.274656,Chennai,SENS-0073,center,10000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
+CONT-0074,SHP-0037,Dry,Apple,Kolkata,West Bengal,22.571048,88.36012,Kolkata,SENS-0074,front,10000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
+CONT-0075,SHP-0038,Insulated,Apple,Bengaluru,Karnataka,12.9331,77.591047,Bengaluru,SENS-0075,rear,10000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
+CONT-0076,SHP-0038,Reefer,Potato,Delhi,Delhi,28.608321,77.182649,Delhi,SENS-0076,front,8000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
+CONT-0077,SHP-0039,Dry,Tomato,Mumbai,Maharashtra,19.052992,72.890657,Mumbai,SENS-0077,rear,8000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
+CONT-0078,SHP-0039,Dry,Potato,Chennai,Tamil Nadu,13.066907,80.265683,Chennai,SENS-0078,rear,12000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
+CONT-0079,SHP-0040,Insulated,Apple,Kolkata,West Bengal,22.598585,88.381561,Kolkata,SENS-0079,center,10000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
+CONT-0080,SHP-0040,Insulated,Apple,Bengaluru,Karnataka,12.978185,77.60702,Bengaluru,SENS-0080,center,10000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
+CONT-0081,SHP-0041,Insulated,Onion,Delhi,Delhi,28.603439,77.223844,Delhi,SENS-0081,front,5000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
+CONT-0082,SHP-0041,Dry,Onion,Mumbai,Maharashtra,19.07314,72.895269,Mumbai,SENS-0082,center,5000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
+CONT-0083,SHP-0042,Dry,Onion,Chennai,Tamil Nadu,13.093662,80.247119,Chennai,SENS-0083,rear,5000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
+CONT-0084,SHP-0042,Insulated,Apple,Kolkata,West Bengal,22.564826,88.386568,Kolkata,SENS-0084,center,12000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
+CONT-0085,SHP-0043,Insulated,Apple,Bengaluru,Karnataka,12.956394,77.595092,Bengaluru,SENS-0085,rear,10000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
+CONT-0086,SHP-0043,Reefer,Tomato,Delhi,Delhi,28.61858,77.22633,Delhi,SENS-0086,front,10000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
+CONT-0087,SHP-0044,Dry,Potato,Mumbai,Maharashtra,19.080566,72.878781,Mumbai,SENS-0087,rear,12000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
+CONT-0088,SHP-0044,Dry,Potato,Chennai,Tamil Nadu,13.051751,80.261833,Chennai,SENS-0088,rear,5000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
+CONT-0089,SHP-0045,Insulated,Tomato,Kolkata,West Bengal,22.594739,88.369425,Kolkata,SENS-0089,rear,8000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
+CONT-0090,SHP-0045,Insulated,Apple,Bengaluru,Karnataka,12.983806,77.610627,Bengaluru,SENS-0090,rear,12000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
+CONT-0091,SHP-0046,Insulated,Apple,Delhi,Delhi,28.617955,77.19605,Delhi,SENS-0091,center,8000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
+CONT-0092,SHP-0046,Reefer,Tomato,Mumbai,Maharashtra,19.081751,72.892697,Mumbai,SENS-0092,center,8000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
+CONT-0093,SHP-0047,Insulated,Potato,Chennai,Tamil Nadu,13.104922,80.259546,Chennai,SENS-0093,rear,12000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
+CONT-0094,SHP-0047,Dry,Apple,Kolkata,West Bengal,22.585266,88.364071,Kolkata,SENS-0094,center,12000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
+CONT-0095,SHP-0048,Reefer,Onion,Bengaluru,Karnataka,12.984227,77.602912,Bengaluru,SENS-0095,front,12000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
+CONT-0096,SHP-0048,Insulated,Onion,Delhi,Delhi,28.583847,77.233064,Delhi,SENS-0096,front,10000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
+CONT-0097,SHP-0049,Dry,Tomato,Mumbai,Maharashtra,19.095643,72.853666,Mumbai,SENS-0097,center,8000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
+CONT-0098,SHP-0049,Insulated,Potato,Chennai,Tamil Nadu,13.070788,80.277295,Chennai,SENS-0098,center,12000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
+CONT-0099,SHP-0050,Insulated,Apple,Kolkata,West Bengal,22.551409,88.329248,Kolkata,SENS-0099,front,12000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
+CONT-0100,SHP-0050,Insulated,Potato,Bengaluru,Karnataka,12.978491,77.605129,Bengaluru,SENS-0100,center,12000,2026-10-01,synthetic,Synthetic project-development record; not operational telemetry.
