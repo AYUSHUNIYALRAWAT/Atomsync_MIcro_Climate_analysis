@@ -1,0 +1,6 @@
+dataset,rows,columns,duplicates,missing_cells,status,errors,warnings
+containers_raw.csv,100,15,0,0,PASSED,,
+sensor_events_raw.csv,67200,13,0,192,PASSED,,temperature_c: 134 missing values (0.20%); vibration_g: 58 missing values (0.09%)
+weather_raw.csv,840,12,0,0,PASSED,,
+commodity_market_prices_raw.csv,140,12,0,0,PASSED,,
+market_routes_raw.csv,10,8,0,0,PASSED,,

@@ -1,0 +1,11 @@
+route_id,origin_city,destination_city,distance_km_est,estimated_travel_hours,estimated_extra_cost_inr,route_source_type,source_note
+RTE-001,Delhi,Mumbai,1453.14,33.79,15854.02,synthetic_estimate,Illustrative estimate; not a live routing-provider measurement.
+RTE-002,Delhi,Chennai,2153.24,46.71,18700.23,synthetic_estimate,Illustrative estimate; not a live routing-provider measurement.
+RTE-003,Delhi,Kolkata,1689.07,39.83,23033.32,synthetic_estimate,Illustrative estimate; not a live routing-provider measurement.
+RTE-004,Delhi,Bengaluru,2228.74,49.47,31334.79,synthetic_estimate,Illustrative estimate; not a live routing-provider measurement.
+RTE-005,Mumbai,Chennai,1340.58,26.07,13199.11,synthetic_estimate,Illustrative estimate; not a live routing-provider measurement.
+RTE-006,Mumbai,Kolkata,1965.07,45.95,28431.12,synthetic_estimate,Illustrative estimate; not a live routing-provider measurement.
+RTE-007,Mumbai,Bengaluru,1021.24,26.15,8325.66,synthetic_estimate,Illustrative estimate; not a live routing-provider measurement.
+RTE-008,Chennai,Kolkata,1770.37,42.69,18535.37,synthetic_estimate,Illustrative estimate; not a live routing-provider measurement.
+RTE-009,Chennai,Bengaluru,382.56,9.94,3693.78,synthetic_estimate,Illustrative estimate; not a live routing-provider measurement.
+RTE-010,Kolkata,Bengaluru,1915.7,49.15,19884.46,synthetic_estimate,Illustrative estimate; not a live routing-provider measurement.
